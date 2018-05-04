@@ -4531,9 +4531,9 @@ ts-node@^3.2.0:
     v8flags "^2.0.11"
     yn "^2.0.0"
 
-"tsconfig-paths@https://github.com/ConnectFirst/tsconfig-paths#a738d1ecd67e08ac2039509bcaea107bcc5e97e3":
+"tsconfig-paths@https://github.com/ConnectFirst/tsconfig-paths#1897c617cc7dd2e0bb2785c58778f17eb491935b":
   version "3.3.1"
-  resolved "https://github.com/ConnectFirst/tsconfig-paths#a738d1ecd67e08ac2039509bcaea107bcc5e97e3"
+  resolved "https://github.com/ConnectFirst/tsconfig-paths#1897c617cc7dd2e0bb2785c58778f17eb491935b"
   dependencies:
     deepmerge "^2.0.1"
     minimist "^1.2.0"

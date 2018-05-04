@@ -8,7 +8,8 @@
   "repository": "https://github.com/dividab/tsconfig-paths-webpack-plugin",
   "dependencies": {
     "chalk": "^2.3.0",
-    "tsconfig-paths": "https://github.com/ConnectFirst/tsconfig-paths#a738d1ecd67e08ac2039509bcaea107bcc5e97e3"
+    "tsconfig-paths":
+      "https://github.com/ConnectFirst/tsconfig-paths#1897c617cc7dd2e0bb2785c58778f17eb491935b"
   },
   "devDependencies": {
     "@types/colors": "^1.1.3",
