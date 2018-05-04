@@ -4531,11 +4531,12 @@ ts-node@^3.2.0:
     v8flags "^2.0.11"
     yn "^2.0.0"
 
-tsconfig-paths@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/tsconfig-paths/-/tsconfig-paths-3.2.0.tgz#22bfb63a23fca4d7845fe94dc015d5c85dcc06e5"
+"tsconfig-paths@https://github.com/ConnectFirst/tsconfig-paths#a738d1ecd67e08ac2039509bcaea107bcc5e97e3":
+  version "3.3.1"
+  resolved "https://github.com/ConnectFirst/tsconfig-paths#a738d1ecd67e08ac2039509bcaea107bcc5e97e3"
   dependencies:
     deepmerge "^2.0.1"
+    minimist "^1.2.0"
     strip-bom "^3.0.0"
     strip-json-comments "^2.0.1"
 
